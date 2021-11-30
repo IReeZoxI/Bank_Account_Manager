@@ -1,0 +1,6 @@
+Checking Account >> Name : Clark Huang . Balance : 9907.0 . Type next for new steps : 
+ 
+
+Time : 21:01:29.432962500  Action: Withdraw 50,00 to balance . 
+
+Time : 21:01:29.435967100  Action: Deposit 50,00 to balance . 
